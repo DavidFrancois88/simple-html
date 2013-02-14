@@ -1,7 +1,7 @@
 simple-html
 ===========
 
-<a href="">Home</a>
+<a href="http://166.78.129.118/~dfrancois/INF-362/Teams/Eclectic-A-Team/index.html">Home</a>
 
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
